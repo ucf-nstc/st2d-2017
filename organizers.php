@@ -14,23 +14,16 @@ $page_title = 'Home';
     </div>
 
 	<div class="eight columns">
-        <h4>Organizers</h4>
-        <h6>Steering committee</h6>
+        <h4>Organizing Committee</h4>
         <ul>
-            <li>Saiful Khondaker, Chair (University of Central Florida)</li>
-            <li>Yeonwoong (Eric) Jung, Co-Chair (University of Central Florida)</li>
-        </ul>
-
-        <h6>Organizing committee</h6>
-        <ul>
-            <li>Luis Balicas (Florida State University)</li>
-            <li>Matthias Batzill (University of South Florida)</li>
-            <li>Humberto Rodriguez Gutierrez (University of South Florida)</li>
-            <li>Jing Guo (University of Florida)</li>
-            <li>Chang-Yong Nam (Brookhaven National Lab)</li>
-            <li>Gwan-Hyoung Lee (Yonsei University, Korea)</li>
-            <li>Saiful Khondaker (University of Central Florida)</li>
-            <li>Yeonwoong (Eric) Jung (University of Central Florida)</li>
+        	<li><b>Saiful Khondaker</b>, <i>Chair</i>, University of Central Florida</li>
+            <li><b>Yeonwoong (Eric) Jung</b>, <i>Co-Chair</i>, University of Central Florida</li>
+            <li><b>Luis Balicas</b>, Florida State University</li>
+            <li><b>Matthias Batzill</b>, University of South Florida</li>
+            <li><b>Humberto Rodriguez Gutierrez</b>, University of South Florida</li>
+            <li><b>Jing Guo</b>, University of Florida</li>
+            <li><b>Chang-Yong Nam</b>, Brookhaven National Lab</li>
+            <li><b>Gwan-Hyoung Lee</b>, Yonsei University</b>, Korea</li>
         </ul>
     </div>
 

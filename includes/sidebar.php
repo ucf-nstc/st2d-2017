@@ -5,4 +5,4 @@
 <br>12424 Research Parkway, Ste 400
 <br>Phone: 407-882-1578
 <br><a href="mailto:st2dflorida@gmail.com">st2dflorida@gmail.com</a></p>
-<h6>Submissions</h6>
+<a class="button button-sidebar" href="files/2016-st2d-flyer.pdf">Download Flyer</a>

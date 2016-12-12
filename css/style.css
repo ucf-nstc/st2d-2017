@@ -49,3 +49,7 @@ footer {
 .no-margin {
 	margin-left: 0;
 }
+
+.button-sidebar {
+	padding: 0 0.5rem;
+	}

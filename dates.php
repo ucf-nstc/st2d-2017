@@ -18,15 +18,14 @@ $page_title = 'Home';
 
         <div class="row"></div>
             <div class="columns four no-margin">
-                <h6>Registration</h6>
+                <h5>Registration</h5>
                 <p>Early registration by Jan 20, 2017</p>
                 <a class="button">coming soon</a>
             </div>
 
-            <div class="columns four">
-                <h6>Abstract Submission</h6>
-                <p>Abstract submission by Jan 2, 2017</p>
-                <a class="button">coming soon</a>
+            <div class="columns six">
+                <h5>Abstract Submission</h5>
+                <p>Submit one-page abstract to <a href="mailto:st2dflorida@gmail.com">st2dflorida@gmail.com</a> with title, author name/affiliation, email address, and preferred presentation (Oral or Poster)</p>
             </div>
         </div>
 

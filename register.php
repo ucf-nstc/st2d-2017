@@ -15,6 +15,7 @@ $page_title = 'Home';
 
 	<div class="eight columns">
         <h4>Registration</h4>
+		<h6><i>The registration fee includes coffee, lunch on both days, and reception during the poster presentation</i></h6>
         <h6>Early bird registration by Jan 20, 2017</h6>
         <ul>
         	<li>Regular: $200</li>
