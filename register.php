@@ -27,6 +27,8 @@ $page_title = 'Home';
         	<li>Regular: $250</li>
         	<li>Student: $150</li>
         </ul>
+        <p><i>To register, click below and select ticket type and quantity on the next page.</i></p>
+        <a class="button button-primary" href="https://www.eventbrite.com/e/st2d-florida-2017-tickets-30536445330">Register Now</a>
     </div>
 
 </section>
