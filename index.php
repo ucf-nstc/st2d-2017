@@ -66,7 +66,7 @@ $page_title = 'Home';
     <div class="three columns">
         <h6>Important dates</h6>
         <p>Early bird registration: Jan 20, 2017</p>
-        <p>Abstract Submission: Jan 2, 2017</p>
+        <p>Abstract Submission: <i>Deadline extended to Jan 13, 2017</i></p>
 
         <h6>News</h6>
         <p><a href="program.php">Scientific program and book of abstracts</a> is published</p>

@@ -26,6 +26,7 @@ $page_title = 'Home';
             <div class="columns six">
                 <h5>Abstract Submission</h5>
                 <p>Submit one-page abstract to <a href="mailto:st2dflorida@gmail.com">st2dflorida@gmail.com</a> with title, author name/affiliation, email address, and preferred presentation (Oral or Poster).</p>
+                <p><i> Deadline extended to Jan 13, 2017</i></p>
             </div>
         </div>
 
