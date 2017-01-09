@@ -40,11 +40,14 @@ ul li a {
 }
 
 .sponsors .platinum {
+	margin: 5rem 0;
 }
 
 .sponsors .platinum img {
-	width: 40rem;
-	margin: 3rem 0;
+	position: relative;
+	max-height: 7.5rem;
+	max-width: 100%;
+	margin: 3rem 3rem 3rem 0;
 }
 
 .sponsors div {
@@ -53,13 +56,13 @@ ul li a {
 }
 
 .sponsors .silver {
-
+	margin: 5rem 0;
 }
 
 .sponsors .silver img {
 	width: 20rem;
 	display: inline-block;
-	margin: 3rem 1rem;
+	margin: 3rem 1rem 3rem 0;
 }
 
 /* Footer */

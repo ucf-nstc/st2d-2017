@@ -23,9 +23,9 @@ $page_title = 'Home';
             <h4>Our Sponsors</h4>
 
             <!-- Platinum -->
-            <h5>Platinum Sponsors ($1000+)</h5>
-
             <div class="platinum">
+                <h5>Platinum Sponsors ($1000+)</h5>
+
                 <!-- Research and Commercialization -->
                 <img src="images/sponsors/research.png">
                 <!-- Graduate Studies -->
@@ -34,16 +34,16 @@ $page_title = 'Home';
                 <img src="images/sponsors/sciences.png">
                 <!-- CREOL -->
                 <img src="images/sponsors/creol.png">
-                <!-- Ultratech -->
-                <img src="images/sponsors/ultratech.png">
                 <!-- Nova -->
                 <img src="images/sponsors/nova.png">
+                <!-- Ultratech -->
+                <img src="images/sponsors/ultratech.png">
             </div>
 
             <!-- Silver -->
-            <h5>Silver Sponsors ($500+)</h5>
-
             <div class="silver">
+                <h5>Silver Sponsors ($500+)</h5>
+                
                 <!-- Engineering and Compsci -->
                 <img src="images/sponsors/research.png">
                 <!-- Thorlabs -->
