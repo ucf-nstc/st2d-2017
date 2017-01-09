@@ -30,6 +30,7 @@ $page_title = 'Home';
         	<li><b>Koray Aydin</b>, Northwestern University</li>
         	<li><b>Nikhil Koratkar</b>, Rensselaer Polytechnic Institute</li>
         	<li><b>Richard Hennig</b>, University of Florida</li>
+            <li><b>Talat Rahman</b>, University of Central Florida</li>
 		</ul>
     </div>
 
