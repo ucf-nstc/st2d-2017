@@ -22,42 +22,83 @@ $page_title = 'Home';
             <!-- Sponsors -->
             <h4>Our Sponsors</h4>
 
+            <!-- Diamond -->
+            <div class="platinum">
+                <h5>Diamond Sponsors</h5>
+
+                 <!-- Research and Commercialization -->
+                <a href="http://www.research.ucf.edu/">
+                    <img src="images/sponsors/research.png">
+                </a>
+                <!-- Graduate Studies -->
+                <a href="http://www.graduate.ucf.edu/">
+                    <img src="images/sponsors/gradstudies.png">
+                </a>
+                <!-- College of Sciences -->
+                <a href="http://www.sciences.ucf.edu/">
+                    <img src="images/sponsors/sciences.png">
+                </a>
+                <!-- CREOL -->
+                <a href="http://www.creol.ucf.edu/">
+                    <img src="images/sponsors/creol.png">
+                </a>
+
+            </div>
+
             <!-- Platinum -->
             <div class="platinum">
-                <h5>Platinum Sponsors ($1000+)</h5>
+                <h5>Platinum Sponsors</h5>
 
-                <!-- Research and Commercialization -->
-                <img src="images/sponsors/research.png">
-                <!-- Graduate Studies -->
-                <img src="images/sponsors/gradstudies.png">
-                <!-- College of Sciences -->
-                <img src="images/sponsors/sciences.png">
-                <!-- CREOL -->
-                <img src="images/sponsors/creol.png">
                 <!-- Nova -->
-                <img src="images/sponsors/nova.png">
+                <a href="http://www.novawafers.com/">
+                    <img src="images/sponsors/nova.png">
+                </a>
                 <!-- Ultratech -->
-                <img src="images/sponsors/ultratech.png">
+                <a href="http://www.cambridgenanotechald.com/">
+                    <img src="images/sponsors/ultratech.png">
+                </a>
+                <!-- Park Systems -->
+                <a href="http://www.parkafm.com/">
+                    <img src="images/sponsors/park.png">
+                </a>
             </div>
 
             <!-- Silver -->
             <div class="silver">
-                <h5>Silver Sponsors ($500+)</h5>
+                <h5>Silver Sponsors</h5>
                 
                 <!-- Engineering and Compsci -->
-                <img src="images/sponsors/research.png">
+                <a href="http://www.cecs.ucf.edu/">
+                    <img src="images/sponsors/compsci.png">
+                </a>
                 <!-- Thorlabs -->
-                <img src="images/sponsors/thorlabs.png">
+                <a href="https://www.thorlabs.com/">
+                    <img src="images/sponsors/thorlabs.png">
+                </a>
                 <!-- Itechu -->
-                <img src="images/sponsors/itechu.png">
+                <a href="">
+                    <img src="images/sponsors/itechu.png">
+                </a>
                 <!-- Mantis Sigma -->
-                <img src="images/sponsors/mantissigma.png">
+                <a href="http://www.sigma-surface-science.com/about-us/">
+                    <img src="images/sponsors/mantissigma.png">
+                </a>
                 <!-- Femto Science -->
-                <img src="images/sponsors/femtoscience.png">
+                <a href="http://www.femtoscience.co.kr/gnuboard4/">
+                    <img src="images/sponsors/femtoscience.png">
+                </a>
                 <!-- Scienta Omicron -->
-                <img src="images/sponsors/scientaomicron.png">
+                <a href="http://www.scientaomicron.com/en/home">
+                    <img src="images/sponsors/scientaomicron.png">
+                </a>
                 <!-- 2D Materials Journal -->
-                <img src="images/sponsors/2dmaterials.png">
+                <a href="http://iopscience.iop.org/journal/2053-1583;jsessionid=2400C8796557B6D0157805B0CEA4C2EF.c1.iopscience.cld.iop.org">
+                    <img src="images/sponsors/2dmaterials.png">
+                </a>
+                <!-- Zeiss -->
+                <a href="https://www.zeiss.com/global/home.html">
+                    <img src="images/sponsors/zeiss.png">
+                </a>
             </div>
 
         </div>
