@@ -61,6 +61,10 @@ $page_title = 'Home';
                 <a href="http://www.parkafm.com/">
                     <img src="images/sponsors/park.png">
                 </a>
+                <!-- National Magnetic Laboratory -->
+                <a href="https://nationalmaglab.org/">
+                    <img src="images/sponsors/maglab.png">
+                </a>
             </div>
 
             <!-- Silver -->
@@ -106,7 +110,7 @@ $page_title = 'Home';
 
     <div class="three columns">
         <h6>Important dates</h6>
-        <p>Early bird registration: Jan 23, 2017</p>
+        <p>Early bird registration: Jan oo, 2017</p>
         <p>Abstract Submission: <i>Deadline extended to Jan 13, 2017</i></p>
 
         <h6>News</h6>
