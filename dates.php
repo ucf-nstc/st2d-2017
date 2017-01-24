@@ -19,7 +19,7 @@ $page_title = 'Home';
         <div class="row"></div>
             <div class="columns four no-margin">
                 <h5>Registration</h5>
-                <p>Early registration by Jan 23, 2017</p>
+                <p>Early registration by Jan 29, 2017</p>
                 <a href="https://www.eventbrite.com/e/st2d-florida-2017-tickets-30536445330" class="button button-primary">Register Now</a>
             </div>
 
