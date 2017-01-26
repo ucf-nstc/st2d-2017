@@ -99,6 +99,10 @@ $page_title = 'Home';
                 <a href="http://iopscience.iop.org/journal/2053-1583;jsessionid=2400C8796557B6D0157805B0CEA4C2EF.c1.iopscience.cld.iop.org">
                     <img src="images/sponsors/2dmaterials.png">
                 </a>
+                <!-- Anasys Instruments -->
+                <a href="http://www.anasysinstruments.com/">
+                    <img src="images/sponsors/anasys.png">
+                </a>
                 <!-- Zeiss -->
                 <a href="https://www.zeiss.com/global/home.html">
                     <img src="images/sponsors/zeiss.png">
@@ -116,8 +120,8 @@ $page_title = 'Home';
         <h6>News</h6>
         <p><a href="program.php">Scientific program and book of abstracts</a> is published</p>
 
-        <h6>Gallery</h6>
-        <p><a href="gallery.php">View photos from the workshop</a></p>
+        <!-- <h6>Gallery</h6>
+        <p><a href="gallery.php">View photos from the workshop</a></p> -->
 
         <h6>Symposium Archive</h6>
         <p><a href="http://nanoscience.ucf.edu/st2dflorida2015/">View past Symposium websites</a></p>

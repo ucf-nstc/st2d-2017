@@ -15,7 +15,8 @@ $page_title = 'Home';
 
 	<div class="eight columns">
         <h4>Program</h4>
-        <p>Coming soon</p>
+        <p><em>Below is a PDF version of the Program.</em></p>
+        <a href="./files/program.pdf"><button class="button">Download PDF</button>
     </div>
 
 </section>
