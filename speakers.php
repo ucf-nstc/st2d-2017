@@ -19,7 +19,7 @@ $page_title = 'Home';
         	<li><b>Pulickel Ajayan</b>, Rice University</li>
         	<li><b>James Hone</b>, Columbia University</li>
         	<li><b>Eric Pop</b>, Stanford University</li>
-        	<li><b>C.N. (Jennie) Lau</b>, UC Riverside</li>
+        	<li><b>C.N. (Jeanie) Lau</b>, UC Riverside</li>
         	<li><b>Ali Javey</b>, UC Berkley</li>
         	<li><b>Deji Akinwande</b>, UT Austin</li>
         	<li><b>Sefaattin Tongay</b>, Arizona State University</li>
