@@ -1,7 +1,7 @@
 <?php 
 // Get header.php and set page title
 require_once('includes/header.php');
-$page_title = 'Programs';
+$page_title = 'Program';
 ?>
 
 <!-- Page content -->
