@@ -12,5 +12,6 @@
 		<li><a href="program.php">Program</a></li>
 		<li><a href="info.php">General Info</a></li>
 		<li><a href="dates.php">Important Dates</a></li>
+		<li><a href="gallery.php">Gallery</a></li>
 	</ul>
 </nav>
