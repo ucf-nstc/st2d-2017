@@ -48,9 +48,9 @@ $page_title = 'Gallery';
             }
         }
 
-        // '/var/www/nano/employ/Nano.Photos/ST2DFlorida.2017'
-        // 'images/sponsors'
-        $directory = 'images/sponsors/';
+        // '/var/www/nano/employ/Nano.Photos/ST2DFlorida.2017' for live
+        // 'images/sponsors' to test locally
+        $directory = '/var/www/nano/employ/Nano.Photos/ST2DFlorida.2017';
         $image_array = get_image_array($directory);
         display_image_gallery($image_array, $directory);
     ?>
