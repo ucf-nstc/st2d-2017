@@ -48,9 +48,9 @@ $page_title = 'Gallery';
             }
         }
 
-        // 'images/gallery' for live
+        // 'images/gallery/' for live
         // 'images/sponsors' to test locally
-        $directory = 'images/gallery';
+        $directory = 'images/gallery/';
         $image_array = get_image_array($directory);
         display_image_gallery($image_array, $directory);
     ?>
