@@ -16,6 +16,7 @@ $page_title = 'Gallery';
     <div class="ten columns">
         <h4>Gallery</h4>
     </div>
+
     <div class="ten columns gallery">
 
     <?php 
@@ -44,8 +45,8 @@ $page_title = 'Gallery';
         function display_image_gallery($image_array, $directory) {
             foreach ($image_array as $image) {
                 $out  = '<div>';
-                $out .= '<a href="' . $directory.$image . '">';
-                $out .= '<img src="' . $directory.$image . '">';
+                $out .= '<a href="#">';
+                $out .= '<img src="' . $directory.$image . '" data-jslghtbx>';
                 $out .= '</a>';
                 $out .= '</div>';
                 echo $out;
@@ -66,3 +67,10 @@ $page_title = 'Gallery';
 // Get footer.php
 require_once('includes/footer.php');
 ?>
+
+<!-- Lightbox -->
+<script type="text/javascript" src="js/lightbox.min.js"></script>
+<script>
+    var lightbox = new Lightbox();
+    lightbox.load();
+</script>
