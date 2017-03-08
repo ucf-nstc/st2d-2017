@@ -14,7 +14,9 @@ $page_title = 'Gallery';
     </div>
 
     <div class="ten columns gallery">
-    <h1>Gallery</h1>
+        <div>
+            <h4>Gallery</h4>
+        </div>
     <?php 
         // check if string has a valid image filename
 
